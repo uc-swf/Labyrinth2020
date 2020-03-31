@@ -14,9 +14,9 @@
 import pygame	# for graphics, see pygame.org
 import btsim as serial
 
-
-SerialPort = "BTdata_2020_03_30.txt"		
-#SerialPort = "__RANDOM__"		
+#changed to random
+#SerialPort = "BTdata_2020_03_30.txt"		
+SerialPort = "__RANDOM__"		
 
 pygame.init()		# init graphics
 pygame.display.set_caption("Zumo Distances")	# Set window title
