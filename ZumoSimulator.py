@@ -11,6 +11,8 @@
 
 '''
 
+#hier ein Kommentar aus master...
+
 import pygame	# for graphics, see pygame.org
 import btsim as serial
 
