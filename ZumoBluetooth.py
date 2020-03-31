@@ -14,6 +14,7 @@
    **** ACHTUNG * ACHTUNG * ACHTUNG * ACHTUNG * ACHTUNG * ACHTUNG *****
 
 """
+#hier ein Kommentar aus master...
 
 import serial   # for serial/bluetooth communication
 
